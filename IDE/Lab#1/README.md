@@ -4,12 +4,6 @@
 
 Command Line Interface; CLI Editors; Setting Server Environment; Version Control Systems
 
-## Prerequisites:
-  - IDEs: Command Line Interface (CLI), CLI Editors
-  - Languages: bash
-  - Frameworks:
-  - Technologies: Version Control Systems (VCS)
-
 ## Objectives:
   - Understanding and using CLI (basic level)
   - Administration of a remote linux machine using SSH
